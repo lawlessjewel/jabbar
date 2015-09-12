@@ -1,0 +1,4 @@
+# Lawlessjewel
+This is jabbar’s sample application for
+[one month rails] (http://lawlessjewel.com)
+By [Jabbar Perryman](http://jabbarperryman.com)
